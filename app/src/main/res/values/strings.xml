@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExternalDB</string>
+    <string name="title_activity_send_email">SendEmailActivity</string>
+    <string name="title_activity_send_mail">SendMailActivity</string>
+</resources>
